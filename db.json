@@ -1,16 +1,11 @@
 {
-  "users" : [
+  "posts": [
     {
-      "username": "ilkin944",
-      "password": "12345"
-    },
-    {
-      "username": "admin",
-      "password":"123456"
-    },
-    {
-      "username": "userd",
-      "password":"654321"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
